@@ -1,6 +1,6 @@
 ### Hello World ! 👋
 
-- 😄 I'm Kevin, an aspiring **front-end** developer
+- 😄 I'm Kevin, a junior **front-end** developer
 - 🍷 I'm from **Bordeaux**, France 🇫🇷
 - 🥹 **Newbie** in the tech sphere
 - 🔥 I'm a **design** & nice stuff enthusiast
