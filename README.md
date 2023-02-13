@@ -2,7 +2,6 @@
 
 - 😄 I'm Kevin, a junior **front-end** developer
 - 🍷 I'm from **Bordeaux**, France 🇫🇷
-- 🥹 **Newbie** in the tech sphere
 - 🔥 I'm a **design** & nice stuff enthusiast
 - 📸 I'm a **photographer** in my spare time
 - 🌱 I’m currently learning **front-end development** & soon the pleasures of the back-end !
