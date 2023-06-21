@@ -1,13 +1,32 @@
-### Hello World ! 👋
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/57001657?v=4" width="200"></img>
+  <h1 align="center">Hi 👋, I'm Kevin</h1>
+  <h3 align="center">🍷 A junior frontend developer from Bordeaux, France 🇫🇷</h3>
+  <p align="center">🔥 I'm a design & nice stuff enthusiast<br>📸 I'm a photographer in my spare time<br>🌱 I’m currently learning front-end development & soon the pleasures of the back-end !<br>😄 Pronouns: Ka-Be (to pronounce Ka-bey)</p>
 
-- 😄 I'm Kevin, a junior **front-end** developer
-- 🍷 I'm from **Bordeaux**, France 🇫🇷
-- 🔥 I'm a **design** & nice stuff enthusiast
-- 📸 I'm a **photographer** in my spare time
-- 🌱 I’m currently learning **front-end development** & soon the pleasures of the back-end !
-- 😄 Pronouns: **Ka-Be** (to pronounce *Ka-bey*)
+  [![portfolio](https://img.shields.io/badge/Check_my_Portfolio-000?style=for-the-badge&logoColor=white)](https://kevinbourgitteau.com/)
 
-# I code with
+  <div align="center">
+  <h3>👇 You can also find me here 👇</h3>
+  <a href="">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="50" alt="linkedin logo"  /></a>
+  <a href="">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="40" height="50" alt="codepen logo"  /></a>
+  <a href="">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="40" height="50" alt="dribbble logo"  /></a>
+  <a href="">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="40" height="50" alt="behance logo"  /></a>
+  <a href="">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="50" alt="stackoverflow logo"  /></a>
+  <a href="">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="50" alt="twitter logo"  /></a>
+
+  </div>
+
+  ---
+
+</div>
+
+<br>
+
+<div align="center">
+  <h1 align="center">👨🏻‍💻 I code with</h1>
+  <div align="center">
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -16,23 +35,34 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
-<br />
-<br />
-<br />
 
-### I'm currently learning
+  </div>
+
+  <h2 align="center">🏋️ I'm currently learning</h2>
+
+  <div align="center">
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### And I ❤︎ to solve problems on Codewars ![Codewars](https://www.codewars.com/users/Ka-be/badges/micro) 
+  </div>
+  <br />
+
+
+  <h2 align="center">🧠 And I ❤︎ to solve problems on Codewars</h2>
+
+  ![Codewars](https://www.codewars.com/users/Ka-be/badges/large)
+
+</div>
 
 <br />
-<br />
 
-# I'm pretty comfortable with these tools
+<div align="center">
+  <h2 align="center">🤌 Otherwise, I'm pretty comfortable with these tools</h2>
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -41,19 +71,28 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <br />
+
+---
+</div>
+
 <br />
 
+<div align="center">
+  <h1 align="center">📊 Stats</h1>
 
-# Get in touch 😁
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://kevinbourgitteau.com/)<br />
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ka-be)<br />
-[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ka-be)<br />
-[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13797852/kevin-bjto)<br />
-[![behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/kaabe)<br />
-[![dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Kaabee)<br />
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/kevin-bourgitteau)<br />
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BjtoKevin)<br />
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kaabe_)<br />
+  ![](https://github-readme-stats.vercel.app/api?username=ka-be&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ka-be&theme=dark&hide_border=true)<br/>
+
+</div>
+
+---
+<br />
+<div align="center">
+  <h1 align="center">Finally, to code well I need ☕️ and to listen this kind of stuff 🎧</h1>
+
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=1119074771&count=5)
+
+</div>
 
 
 
