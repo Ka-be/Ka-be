@@ -4,7 +4,7 @@
   <h3 align="center">🍷 A junior frontend developer from Bordeaux, France 🇫🇷</h3>
   <p align="center">🔥 I'm a design & nice stuff enthusiast<br>📸 I'm a photographer in my spare time<br>🌱 I’m currently learning front-end development & soon the pleasures of the back-end !<br>😄 Pronouns: Ka-Be (to pronounce Ka-bey)</p>
 
-  [![portfolio](https://img.shields.io/badge/Check_my_Portfolio-000?style=for-the-badge&logoColor=white)](https://kevinbourgitteau.com/)
+  [![portfolio](https://img.shields.io/badge/Check_my_Portfolio-44C5A7?style=for-the-badge&logoColor=white)](https://kevinbourgitteau.com/)
 
   <div align="center">
   <h3>👇 You can also find me here 👇</h3>
