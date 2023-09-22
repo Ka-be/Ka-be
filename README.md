@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/57001657?v=4" width="200"></img>
   <h1 align="center">Hi 👋, I'm Kevin </h1>
   <h2 align="center">🍷 A junior frontend developer from Bordeaux, France 🇫🇷 </h2>
-  <h3 align="center">Application Design & development bachelor's degree student @<a href="https://www.oclock.io" target="_blank">O'Clock school</a></h3>
+  <h3 align="center">Application design & development bachelor's degree student @<a href="https://www.oclock.io" target="_blank">O'Clock school</a> <br> Digital solutions developer @<a href="https://www.sanofi.com/" target="_blank">Sanofi</a> </h3>
   <p align="center">🔥 I'm a design & nice stuff enthusiast<br>📸 I'm a photographer in my spare time<br>🌱 I’m currently learning front-end development & soon the pleasures of the back-end !<br>😄 Pronouns: Ka-Be (to pronounce Ka-bey)</p>
 
   [![portfolio](https://img.shields.io/badge/Check_my_Portfolio-44C5A7?style=for-the-badge&logoColor=white)](https://kevinbourgitteau.com/)
