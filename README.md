@@ -55,7 +55,6 @@
   ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Expo]( https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-  ![Swarm](https://img.shields.io/badge/Swarm-FFA633?style=for-the-badge&logo=Swarm&logoColor=black)
   
  
   	
