@@ -65,9 +65,11 @@
   <br />
 
 
-  <h2 align="center">🧠 And I ❤︎ to solve problems on Codewars</h2>
+  <h2 align="center">🧠 And I ❤︎ to solve problems on Codewars & Root-me</h2>
 
   ![Codewars](https://www.codewars.com/users/Ka-be/badges/large)
+  <br />
+  <img src="https://root-me-diff.vercel.app/rm-gh?nickname=SanchoLeCubain&style=midnight&gstats=show" />
 
 </div>
 
