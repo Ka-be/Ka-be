@@ -5,8 +5,6 @@
   <h3 align="center">Application design & development bachelor's degree student @<a href="https://www.oclock.io" target="_blank">O'Clock school</a> <br> Digital solutions developer @<a href="https://www.sanofi.com/" target="_blank">Sanofi</a> </h3>
   <p align="center">🔥 I'm a design & nice stuff enthusiast<br>📸 I'm a photographer in my spare time</p>
 
-  [![portfolio](https://img.shields.io/badge/Check_my_Portfolio-44C5A7?style=for-the-badge&logoColor=white)](https://kevinbourgitteau.com/)
-
   <div align="center">
   <h3>👇 You can also find me here 👇</h3>
   <a href="https://www.linkedin.com/in/kevin-bourgitteau/">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="50" alt="linkedin logo"  /></a>
