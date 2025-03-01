@@ -6,6 +6,7 @@
   <p align="center">🔥 I'm a design & nice stuff enthusiast<br>📸 I'm a photographer in my spare time</p>
 
   <div align="center">
+  <a href="https://www.kevinbourgitteau.fr"><img src="https://img.shields.io/badge/Visit_my_portfolio-09090B?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Button"/></a>
   <h3>👇 You can also find me here 👇</h3>
   <a href="https://www.linkedin.com/in/kevin-bourgitteau/">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="50" alt="linkedin logo"  /></a>
   <a href="https://codepen.io/ka-be">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="40" height="50" alt="codepen logo"  /></a>
