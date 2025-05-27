@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/57001657?v=4" width="200"></img>
   <h1 align="center">Hi 👋, I'm Kevin </h1>
-  <h2 align="center">🍷 A junior frontend developer from Bordeaux, France 🇫🇷 </h2>
+  <h2 align="center">🍷 A full stack developer from Bordeaux, France 🇫🇷 </h2>
   <h3 align="center">Application design & development bachelor's degree student @<a href="https://www.oclock.io" target="_blank">O'Clock school</a> <br> Digital solutions developer @<a href="https://www.sanofi.com/" target="_blank">Sanofi</a> </h3>
   <p align="center">🔥 I'm a design & nice stuff enthusiast<br>📸 I'm a photographer in my spare time</p>
 
